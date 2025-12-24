@@ -1,3 +1,6 @@
+## DATE: 28/11/2025
+## REGISTER NUMBER: 25008080
+
 # List Operations in Python: Sum of List Items
 
 ## 🎯 Aim
